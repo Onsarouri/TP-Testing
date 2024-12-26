@@ -158,4 +158,3 @@ Le projet est organisé comme suit :
 - [Installer Python et pip](https://pip.pypa.io/en/stable/)
 
 ---
-
